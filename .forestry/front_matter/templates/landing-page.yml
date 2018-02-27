@@ -77,3 +77,4 @@ fields:
   type: text
   hidden: true
   default: home
+- type: boolean
